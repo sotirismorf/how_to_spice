@@ -1,0 +1,1 @@
+.model BC238 NPN (Bf=130 Rb=50 CJE=13E-12 CJC=4E-12 VJE=0.7)
