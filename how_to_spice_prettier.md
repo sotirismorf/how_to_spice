@@ -371,7 +371,7 @@ $$$
 
 - `V = 600mV`
 
-![Λύση](exercise3/pictures/part15_alt.png)
+![Λύση](exercise3/pictures/part15.png)
 
 ### Eρώτημα 16
 
